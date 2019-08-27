@@ -1,6 +1,6 @@
 {
-  "short_name": "GeoPins",
-  "name": "GeoPins",
+  "short_name": "react",
+  "name": "reactapp",
   "icons": [
     {
       "src": "favicon.ico",
