@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/geo-pins/static/js/runtime~main.0ae501a1.js"
   },
   {
-    "revision": "6d8cf1086f5b0bc8a61a",
-    "url": "/geo-pins/static/js/main.6d8cf108.chunk.js"
+    "revision": "fe4c462f7f531934751c",
+    "url": "/geo-pins/static/js/main.fe4c462f.chunk.js"
   },
   {
     "revision": "390737fef92c1f713a79",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/geo-pins/static/css/1.35f4ef31.chunk.css"
   },
   {
-    "revision": "a3aaf2247d076a39dd1309c5d242dc74",
+    "revision": "31bf0caa6157818affd732f3f537455e",
     "url": "/geo-pins/index.html"
   }
 ];
