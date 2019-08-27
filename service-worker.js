@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/geo-pins/precache-manifest.d9ad7ef914cf5bd3f117b1815cc68408.js"
+  "/geo-pins/precache-manifest.9a65df243eadbf810bdec54d9b838c11.js"
 );
 
 workbox.clientsClaim();
