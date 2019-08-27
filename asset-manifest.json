@@ -1,6 +1,6 @@
 {
-  "main.js": "/geo-pins/static/js/main.d1850447.chunk.js",
-  "main.js.map": "/geo-pins/static/js/main.d1850447.chunk.js.map",
+  "main.js": "/geo-pins/static/js/main.6d8cf108.chunk.js",
+  "main.js.map": "/geo-pins/static/js/main.6d8cf108.chunk.js.map",
   "static/css/1.35f4ef31.chunk.css": "/geo-pins/static/css/1.35f4ef31.chunk.css",
   "static/js/1.390737fe.chunk.js": "/geo-pins/static/js/1.390737fe.chunk.js",
   "static/js/1.390737fe.chunk.js.map": "/geo-pins/static/js/1.390737fe.chunk.js.map",
@@ -8,6 +8,6 @@
   "runtime~main.js.map": "/geo-pins/static/js/runtime~main.0ae501a1.js.map",
   "static/css/1.35f4ef31.chunk.css.map": "/geo-pins/static/css/1.35f4ef31.chunk.css.map",
   "index.html": "/geo-pins/index.html",
-  "precache-manifest.d9795e6cf33a9c35519c71e27d225f1c.js": "/geo-pins/precache-manifest.d9795e6cf33a9c35519c71e27d225f1c.js",
+  "precache-manifest.52fe263ada046cc9c9a6af395c141222.js": "/geo-pins/precache-manifest.52fe263ada046cc9c9a6af395c141222.js",
   "service-worker.js": "/geo-pins/service-worker.js"
 }
