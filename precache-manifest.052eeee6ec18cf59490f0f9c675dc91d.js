@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/geo-pins/static/css/1.35f4ef31.chunk.css"
   },
   {
-    "revision": "5b8d408b04160218cbfd0aa48c793ea4",
+    "revision": "da63b935e5b5f355e9095d225ce235bd",
     "url": "/geo-pins/index.html"
   }
 ];
